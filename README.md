@@ -37,4 +37,4 @@ _Coming soon_
 
 ## 👤 Author
 
-**Your Name** — [GitHub](https://github.com/YOUR_USERNAME)
+**Ahmed Ziedan** — [GitHub](https://github.com/ahmed-ziedan)
