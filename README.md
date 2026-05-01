@@ -31,9 +31,6 @@ A full-featured e-commerce web application built with ASP.NET Core MVC (.NET 8).
 4. Run `Update-Database` in Package Manager Console
 5. Run the project
 
-## 📸 Screenshots
-
-_Coming soon_
 
 ## 👤 Author
 
